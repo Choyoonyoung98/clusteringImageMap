@@ -1,0 +1,2188 @@
+{
+  "places": [
+    {
+      "id": "1273529946",
+      "name": "줄리아",
+      "x": "126.9904267",
+      "y": "37.5655271",
+      "imageUrl": "http://ldb.phinf.naver.net/20190110_293/1547048398707IGmBs_JPEG/scXaoTP-_ccxbMqn2vFL-k-G.jpg",
+      "category": "중식당"
+    },
+    {
+      "id": "1689758214",
+      "name": "레드스타",
+      "x": "126.9904350",
+      "y": "37.5654971",
+      "imageUrl": "http://ldb.phinf.naver.net/20180126_66/15169338704282pypD_JPEG/g-7_i7HrUQxnbq2X0eX75op4.jpg",
+      "category": "양식"
+    },
+    {
+      "id": "1494838623",
+      "name": "삼곱식당 을지로점",
+      "x": "126.9905362",
+      "y": "37.5660514",
+      "imageUrl": "http://ldb.phinf.naver.net/20190720_55/1563548419648hILb5_JPEG/_C0EHFzSW6AiWXUkokl8L3BI.jpg",
+      "category": "곱창,막창,양"
+    },
+    {
+      "id": "1105908490",
+      "name": "스트라다로스터스",
+      "x": "126.9904117",
+      "y": "37.5666986",
+      "imageUrl": "http://ldb.phinf.naver.net/20190806_213/1565088665739jPvCP_JPEG/GemsLMNPxqYN0yRFOigiabqz.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "19777284",
+      "name": "평래옥",
+      "x": "126.9903945",
+      "y": "37.5649556",
+      "imageUrl": "http://ldb.phinf.naver.net/20190616_192/1560681495671CW2VX_JPEG/pPfSjNLsKKvdhYcaTkyabjtZ.jpg",
+      "category": "한식"
+    },
+    {
+      "id": "1703168591",
+      "name": "After Jerk Off",
+      "x": "126.9904610",
+      "y": "37.5650424",
+      "imageUrl": "http://ldb.phinf.naver.net/20190206_250/1549436062452u4vDl_JPEG/gUTbfsYcZCk6gaAFVkeJWOR9.jpg",
+      "category": "바(BAR)"
+    },
+    {
+      "id": "1550036810",
+      "name": "동의명가칼국수 을지로점",
+      "x": "126.9905697",
+      "y": "37.5651799",
+      "imageUrl": "http://ldb.phinf.naver.net/20190703_141/1562123434667mURPj_JPEG/IAk-tXE6_Qs4JTgTOm-a4Lbb.jpg",
+      "category": "칼국수,만두"
+    },
+    {
+      "id": "1762500519",
+      "name": "임마지노",
+      "x": "126.9905697",
+      "y": "37.5651799",
+      "imageUrl": "http://ldb.phinf.naver.net/20190924_60/1569309241585rsEOu_JPEG/OkkAhgGUios_p-orlb_b-W_C.jpg",
+      "category": "이탈리아음식"
+    },
+    {
+      "id": "1032132478",
+      "name": "해태스낵",
+      "x": "126.9907223",
+      "y": "37.5667071",
+      "imageUrl": null,
+      "category": "종합분식"
+    },
+    {
+      "id": "11815111",
+      "name": "춘천칼국수",
+      "x": "126.9905450",
+      "y": "37.5648720",
+      "imageUrl": null,
+      "category": "국수"
+    },
+    {
+      "id": "1825913685",
+      "name": "카페그레이스",
+      "x": "126.9905918",
+      "y": "37.5648989",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "1225433152",
+      "name": "커피팰리스",
+      "x": "126.9905918",
+      "y": "37.5648989",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "1978022245",
+      "name": "우리호프",
+      "x": "126.9907796",
+      "y": "37.5666470",
+      "imageUrl": "http://ldb.phinf.naver.net/20190827_26/1566911890443HzXSG_JPEG/C1wKK9t-J9d8upaXjWvIor13.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1172310688",
+      "name": "을지맥옥",
+      "x": "126.9907191",
+      "y": "37.5654674",
+      "imageUrl": "http://ldb.phinf.naver.net/20180909_159/1536504323480AQROo_JPEG/hmDWBFK4gCJPO1nRvFBmQGNB.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1610863166",
+      "name": "SPEPET",
+      "x": "126.9907517",
+      "y": "37.5677100",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1066597355",
+      "name": "영동호프&식당",
+      "x": "126.9907491",
+      "y": "37.5677054",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "870048846",
+      "name": "신도시",
+      "x": "126.9907288",
+      "y": "37.5678170",
+      "imageUrl": "http://ldb.phinf.naver.net/20180405_9/1522929973528pXjPL_JPEG/_d0kpxjchl3pGmgRwa0G6ZWS.jpg",
+      "category": "바(BAR)"
+    },
+    {
+      "id": "20892592",
+      "name": "골드커피포트",
+      "x": "126.9907510",
+      "y": "37.5677230",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "36105152",
+      "name": "상우가든",
+      "x": "126.9906865",
+      "y": "37.5650719",
+      "imageUrl": "http://ldb.phinf.naver.net/20181203_258/1543796327996ACggF_JPEG/b87aMiwOKH7ZtinQLIDQtZkD.jpg",
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "31315601",
+      "name": "아침을여는세상 을지로지하쇼핑센터3구역점",
+      "x": "126.9908376",
+      "y": "37.5663330",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "1671429117",
+      "name": "술다방",
+      "x": "126.9907599",
+      "y": "37.5678976",
+      "imageUrl": "http://ldb.phinf.naver.net/20180910_114/15365464846315pUS9_JPEG/nPBzWhEJwvQ8OerpvJn3hOqO.JPG.jpg",
+      "category": "한식"
+    },
+    {
+      "id": "1318830514",
+      "name": "커피코트 을지로3가점",
+      "x": "126.9907175",
+      "y": "37.5650836",
+      "imageUrl": "http://ldb.phinf.naver.net/20180717_95/1531812606204oSOwa_JPEG/emzTnK8rUj66ig0wP8ZLiaGx.jpg",
+      "category": "테이크아웃커피"
+    },
+    {
+      "id": "1852445425",
+      "name": "부자돈까스",
+      "x": "126.9903971",
+      "y": "37.5638447",
+      "imageUrl": null,
+      "category": "돈가스"
+    },
+    {
+      "id": "1934238698",
+      "name": "김밥천국",
+      "x": "126.9903642",
+      "y": "37.5637144",
+      "imageUrl": null,
+      "category": "종합분식"
+    },
+    {
+      "id": "1204290165",
+      "name": "DiTTO",
+      "x": "126.9903642",
+      "y": "37.5637144",
+      "imageUrl": "http://ldb.phinf.naver.net/20181024_287/1540381809981kdakU_JPEG/i3SHs8ivqHOxMupyUHjLV9e4.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "37426066",
+      "name": "대명원",
+      "x": "126.9904532",
+      "y": "37.5639098",
+      "imageUrl": null,
+      "category": "중식당"
+    },
+    {
+      "id": "32242788",
+      "name": "우촌",
+      "x": "126.9907970",
+      "y": "37.5652889",
+      "imageUrl": "http://ldb.phinf.naver.net/20181221_156/1545370263624mXe8v_JPEG/zlgbavqQUJ9q7Jv3-sJ5-M_t.jpg",
+      "category": "소고기구이"
+    },
+    {
+      "id": "1577663900",
+      "name": "을지육점",
+      "x": "126.9908390",
+      "y": "37.5655305",
+      "imageUrl": "http://ldb.phinf.naver.net/20190718_264/1563439870123yo9fq_JPEG/YfoF8eH_9rqA_0rgUZi4QLPo.jpg",
+      "category": "한식"
+    },
+    {
+      "id": "1641737495",
+      "name": "HIKOCO커피",
+      "x": "126.9909138",
+      "y": "37.5663558",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "1228795044",
+      "name": "을지싸롱",
+      "x": "126.9904641",
+      "y": "37.5639020",
+      "imageUrl": "http://ldb.phinf.naver.net/20190813_226/1565675717421NqLcU_JPEG/KakaoTalk_20190813_145341307.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "38275017",
+      "name": "김밥천국",
+      "x": "126.9904122",
+      "y": "37.5637205",
+      "imageUrl": "http://ldb.phinf.naver.net/20190718_164/1563378494227nOeNQ_JPEG/ShLlbdvAe7a9NKrzaoYz2bzk.jpg",
+      "category": "분식"
+    },
+    {
+      "id": "1971089229",
+      "name": "수표교호프",
+      "x": "126.9909202",
+      "y": "37.5672227",
+      "imageUrl": "http://ldb.phinf.naver.net/20191011_71/1570763673677g9LGG_JPEG/DrssAZngfBVKMeoLmvCmftXJ.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "34308972",
+      "name": "돈치킨 을지로3가점",
+      "x": "126.9909206",
+      "y": "37.5673492",
+      "imageUrl": "http://ldb.phinf.naver.net/20190713_226/1562997184365GkqvV_JPEG/il_O2dvqZW1DACrHcmnJh4mE.jpeg.jpg",
+      "category": "치킨,닭강정"
+    },
+    {
+      "id": "1485256306",
+      "name": "청시행",
+      "x": "126.9909553",
+      "y": "37.5670799",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1191092879",
+      "name": "청시행 명동점",
+      "x": "126.9909553",
+      "y": "37.5670799",
+      "imageUrl": "http://ldb.phinf.naver.net/20190420_267/1555750410680fRG4y_JPEG/%B8%DE%B4%BA.jpg",
+      "category": "햄버거"
+    },
+    {
+      "id": "589942844",
+      "name": "청산맛감자탕",
+      "x": "126.9909565",
+      "y": "37.5671895",
+      "imageUrl": "http://ldb.phinf.naver.net/20170227_241/14881620298947hbt9_JPEG/186177515049.JPG",
+      "category": "감자탕"
+    },
+    {
+      "id": "18701471",
+      "name": "오복생삼겹",
+      "x": "126.9909149",
+      "y": "37.5675962",
+      "imageUrl": null,
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "18701295",
+      "name": "영빈각",
+      "x": "126.9909740",
+      "y": "37.5667600",
+      "imageUrl": null,
+      "category": "중식당"
+    },
+    {
+      "id": "454027206",
+      "name": "Cafe Soave",
+      "x": "126.9907397",
+      "y": "37.5685489",
+      "imageUrl": "http://ldb.phinf.naver.net/20170327_186/1490580449513OYjab_JPEG/186277513749.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "36358082",
+      "name": "벤또랑 을지로점",
+      "x": "126.9903825",
+      "y": "37.5635320",
+      "imageUrl": "http://ldb.phinf.naver.net/20181003_94/1538542278576tIhrA_JPEG/F7puki3jZDCBnCW1WT178laF.jpg",
+      "category": "일식당"
+    },
+    {
+      "id": "33243661",
+      "name": "리치하우스",
+      "x": "126.9906061",
+      "y": "37.5690871",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_44/1441053145948LIIDH_JPEG/146861576938181_0.jpeg",
+      "category": "카페"
+    },
+    {
+      "id": "20938473",
+      "name": "명인돈까스",
+      "x": "126.9908950",
+      "y": "37.5653480",
+      "imageUrl": "http://ldb.phinf.naver.net/20190515_60/1557894849485C26qo_JPEG/-DlLu090_zKlJmeZ9Z3ShLTt.jpeg.jpg",
+      "category": "일식당"
+    },
+    {
+      "id": "1121096823",
+      "name": "돈오네 호남집",
+      "x": "126.9909557",
+      "y": "37.5674951",
+      "imageUrl": "http://ldb.phinf.naver.net/20180510_31/1525878636887DTKHD_JPEG/TRjfSRFgwo2HxXgrplfxGZ7g.jpg",
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "1396976329",
+      "name": "을지로 유카네",
+      "x": "126.9908518",
+      "y": "37.5650161",
+      "imageUrl": "http://ldb.phinf.naver.net/20190424_22/1556090889587pGNsg_JPEG/xshY4SeSFnwHq6z__Zc568rE.jpg",
+      "category": "이자카야"
+    },
+    {
+      "id": "18079276",
+      "name": "동원집",
+      "x": "126.9909597",
+      "y": "37.5673610",
+      "imageUrl": null,
+      "category": "감자탕"
+    },
+    {
+      "id": "37108215",
+      "name": "엔조이 커피",
+      "x": "126.9904119",
+      "y": "37.5635193",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "1039403568",
+      "name": "서울라이트",
+      "x": "126.9909366",
+      "y": "37.5676849",
+      "imageUrl": "http://ldb.phinf.naver.net/20180905_276/1536128588961HslOF_JPEG/lkADKB6QHgj3iD533B-SjsZa.jpeg.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "19885764",
+      "name": "원조녹두",
+      "x": "126.9909520",
+      "y": "37.5675770",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_272/144102154267761Kq1_JPEG/156155408029888_0.jpg",
+      "category": "향토음식"
+    },
+    {
+      "id": "1115489679",
+      "name": "루스터커피로스터스",
+      "x": "126.9904307",
+      "y": "37.5635450",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "33459832",
+      "name": "시크릿",
+      "x": "126.9908459",
+      "y": "37.5649414",
+      "imageUrl": null,
+      "category": "단란주점"
+    },
+    {
+      "id": "1779964403",
+      "name": "아씨에뜨앤",
+      "x": "126.9908484",
+      "y": "37.5649403",
+      "imageUrl": "http://ldb.phinf.naver.net/20190817_187/1566015197853bCCDJ_JPEG/57ptD38QJ1wVd-bi9rEwyx5V.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "37686586",
+      "name": "오복",
+      "x": "126.9909586",
+      "y": "37.5675253",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "1372148065",
+      "name": "쌀빵",
+      "x": "126.9910184",
+      "y": "37.5662598",
+      "imageUrl": null,
+      "category": "베이커리"
+    },
+    {
+      "id": "38009231",
+      "name": "참숯늑간",
+      "x": "126.9908550",
+      "y": "37.5649447",
+      "imageUrl": "http://ldb.phinf.naver.net/20190817_162/1566008597652tqsC9_JPEG/JNFyat_U1gZ2eMapuLyep9vh.jpg",
+      "category": "소고기구이"
+    },
+    {
+      "id": "13153974",
+      "name": "정라진막회",
+      "x": "126.9906000",
+      "y": "37.5640000",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_142/1440996387197r6UwO_JPEG/106559517929853_0.jpg",
+      "category": "생선회"
+    },
+    {
+      "id": "18078812",
+      "name": "호프타운",
+      "x": "126.9909480",
+      "y": "37.5677730",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "11727318",
+      "name": "서경민물장어",
+      "x": "126.9909350",
+      "y": "37.5678800",
+      "imageUrl": "http://ldb.phinf.naver.net/20181023_69/1540278689334kJ4gx_PNG/skeel.png",
+      "category": "장어,먹장어요리"
+    },
+    {
+      "id": "13161400",
+      "name": "시골돼지촌",
+      "x": "126.9909107",
+      "y": "37.5651618",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_298/1441000188069apOJJ_JPEG/106576457150681_0.jpg",
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "38506391",
+      "name": "구구알칼리치킨",
+      "x": "126.9910226",
+      "y": "37.5672053",
+      "imageUrl": null,
+      "category": "치킨,닭강정"
+    },
+    {
+      "id": "1917243692",
+      "name": "일단",
+      "x": "126.9909307",
+      "y": "37.5650955",
+      "imageUrl": "http://ldb.phinf.naver.net/20190304_182/1551680779634t0n7K_JPEG/QywPZvraHcGrst8zASN2uyBU.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1077544597",
+      "name": "다케오 호르몬 데판야끼",
+      "x": "126.9910159",
+      "y": "37.5656763",
+      "imageUrl": "http://ldb.phinf.naver.net/20190919_134/1568878224843FUHCa_PNG/HNZaAK_Zo96_nTQlDc7BLedK.png",
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "1913589169",
+      "name": "창화루",
+      "x": "126.9910273",
+      "y": "37.5676800",
+      "imageUrl": "http://ldb.phinf.naver.net/20190208_254/1549594687502uf1x4_JPEG/n9qoTbLSFDAcX9DO3x06trqc.jpg",
+      "category": "종합분식"
+    },
+    {
+      "id": "36317065",
+      "name": "유성식당",
+      "x": "126.9904139",
+      "y": "37.5699750",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_255/1441060589743L5Vzn_JPEG/SUBMIT_1436181330913_36317065.jpg",
+      "category": "닭요리"
+    },
+    {
+      "id": "776358773",
+      "name": "르지우컬렉션",
+      "x": "126.9904549",
+      "y": "37.5633393",
+      "imageUrl": "http://ldb.phinf.naver.net/20170619_233/1497858879831goSwR_JPEG/186569568459636_0.jpeg",
+      "category": "이탈리아음식"
+    },
+    {
+      "id": "35395145",
+      "name": "토스트 을지로지하쇼핑센터3구역점",
+      "x": "126.9911061",
+      "y": "37.5662415",
+      "imageUrl": null,
+      "category": "종합분식"
+    },
+    {
+      "id": "33666764",
+      "name": "홍스쭈꾸미 을지로3가점",
+      "x": "126.9910406",
+      "y": "37.5676933",
+      "imageUrl": null,
+      "category": "주꾸미요리"
+    },
+    {
+      "id": "1579772024",
+      "name": "빈대떡신사",
+      "x": "126.9904173",
+      "y": "37.5700028",
+      "imageUrl": "http://ldb.phinf.naver.net/20180827_169/15353364683011i28Q_JPEG/Vb-NLCf0ZNAvoGLu0osrRCaP.jpg",
+      "category": "전,빈대떡"
+    },
+    {
+      "id": "729345052",
+      "name": "THE EDGE",
+      "x": "126.9911000",
+      "y": "37.5659724",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "33021927",
+      "name": "탐앤탐스 을지로3가점",
+      "x": "126.9909434",
+      "y": "37.5648180",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "1183515575",
+      "name": "G2호텔루프탑",
+      "x": "126.9904717",
+      "y": "37.5633597",
+      "imageUrl": null,
+      "category": "술집"
+    },
+    {
+      "id": "1201458226",
+      "name": "라밥 종로점",
+      "x": "126.9903887",
+      "y": "37.5700867",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "1311996996",
+      "name": "더키친9",
+      "x": "126.9908197",
+      "y": "37.5643370",
+      "imageUrl": "http://ldb.phinf.naver.net/20180817_55/1534491695875yyEhB_JPEG/IMG_3833.jpg",
+      "category": "뷔페"
+    },
+    {
+      "id": "1764475035",
+      "name": "을지로미팅룸",
+      "x": "126.9910466",
+      "y": "37.5653922",
+      "imageUrl": "http://ldb.phinf.naver.net/20171219_216/1513662505280E6Duh_JPEG/4n5S9NUhm35b3aqWrxrrG81H.jpg",
+      "category": "양식"
+    },
+    {
+      "id": "18079072",
+      "name": "대지식당",
+      "x": "126.9910889",
+      "y": "37.5675750",
+      "imageUrl": null,
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "20934721",
+      "name": "솔커피",
+      "x": "126.9910603",
+      "y": "37.5654630",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "1196432181",
+      "name": "남도식당",
+      "x": "126.9904839",
+      "y": "37.5698822",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "560488490",
+      "name": "명동찌개마을 종로점",
+      "x": "126.9904908",
+      "y": "37.5698933",
+      "imageUrl": "http://ldb.phinf.naver.net/20170105_181/1483605957383mkiJM_JPEG/186055577577.jpg",
+      "category": "찌개,전골"
+    },
+    {
+      "id": "36868540",
+      "name": "헤르젠커피",
+      "x": "126.9907498",
+      "y": "37.5640247",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "36470095",
+      "name": "매머드커피 충무로점",
+      "x": "126.9904187",
+      "y": "37.5631417",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_91/14410769973472yObJ_JPEG/166279516249993_0.jpeg",
+      "category": "카페"
+    },
+    {
+      "id": "1165239017",
+      "name": "다원닭한마리빈대떡",
+      "x": "126.9910703",
+      "y": "37.5653871",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "1027637391",
+      "name": "로스팅하우스허깅",
+      "x": "126.9907344",
+      "y": "37.5692757",
+      "imageUrl": "http://ldb.phinf.naver.net/20180711_89/1531300164428fRcYW_JPEG/-b-IWlHAWcafwuSpdkpEllaO.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "19414262",
+      "name": "장원복집",
+      "x": "126.9911250",
+      "y": "37.5676333",
+      "imageUrl": null,
+      "category": "복어요리"
+    },
+    {
+      "id": "1051862155",
+      "name": "썸",
+      "x": "126.9911583",
+      "y": "37.5673925",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1260479248",
+      "name": "장원복활어회집",
+      "x": "126.9911265",
+      "y": "37.5677195",
+      "imageUrl": null,
+      "category": "일식당"
+    },
+    {
+      "id": "13154026",
+      "name": "꼬불꼬불라면",
+      "x": "126.9904590",
+      "y": "37.5631480",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_243/1440996408655oaPwu_JPEG/106559517930461_0.jpg",
+      "category": "라면"
+    },
+    {
+      "id": "34268575",
+      "name": "맘마스쿡",
+      "x": "126.9907527",
+      "y": "37.5639116",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "37870852",
+      "name": "커피인쇄소",
+      "x": "126.9911448",
+      "y": "37.5655776",
+      "imageUrl": "http://ldb.phinf.naver.net/20180709_1/1531067117312MSQzk_JPEG/MBrCEBf6L4bjaFZfms4vmfdP.jpg",
+      "category": "카페"
+    },
+    {
+      "id": "1547724976",
+      "name": "다선실비",
+      "x": "126.9911448",
+      "y": "37.5655776",
+      "imageUrl": "http://ldb.phinf.naver.net/20190304_27/1551689668446zMJOu_JPEG/QGaLitzYCmf0S2FFNqqbhWVd.jpg",
+      "category": "한식"
+    },
+    {
+      "id": "35162834",
+      "name": "토속골사철탕",
+      "x": "126.9907664",
+      "y": "37.5639162",
+      "imageUrl": null,
+      "category": "사철,영양탕"
+    },
+    {
+      "id": "1647032458",
+      "name": "죠지",
+      "x": "126.9912012",
+      "y": "37.5660109",
+      "imageUrl": "http://ldb.phinf.naver.net/20180331_30/15224936045483s8mS_JPEG/M5K8ioUcVUltQEH4N83bxfhe.JPG.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "13391167",
+      "name": "참진한설렁탕",
+      "x": "126.9905639",
+      "y": "37.5699250",
+      "imageUrl": null,
+      "category": "곰탕,설렁탕"
+    },
+    {
+      "id": "11628164",
+      "name": "동경우동",
+      "x": "126.9904385",
+      "y": "37.5629979",
+      "imageUrl": null,
+      "category": "우동,소바"
+    },
+    {
+      "id": "19878331",
+      "name": "한도삼겹살",
+      "x": "126.9908272",
+      "y": "37.5692691",
+      "imageUrl": "http://ldb.phinf.naver.net/20190129_172/1548759047363NEmqG_JPEG/BoAtd6RmY9cbLyYrLcFYl0sD.jpg",
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "18079510",
+      "name": "드링크148",
+      "x": "126.9912160",
+      "y": "37.5673521",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "37672933",
+      "name": "육수당 충무로점",
+      "x": "126.9904763",
+      "y": "37.5630676",
+      "imageUrl": "http://ldb.phinf.naver.net/20181001_87/1538390866310VsmMk_JPEG/kkzA3I_XfqfYmDVzPlhatU_G.jpg",
+      "category": "국밥"
+    },
+    {
+      "id": "1420031010",
+      "name": "굿프렌즈커피&호프",
+      "x": "126.9912101",
+      "y": "37.5656995",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1809526295",
+      "name": "맥주덕후x더랜치브루잉",
+      "x": "126.9911903",
+      "y": "37.5656314",
+      "imageUrl": "http://ldb.phinf.naver.net/20190902_159/1567423868645OkVkQ_JPEG/NHVysG2AJ5-eWiIMhbje8Ruu.JPG.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "34616112",
+      "name": "손맛집",
+      "x": "126.9912124",
+      "y": "37.5675469",
+      "imageUrl": null,
+      "category": "두부요리"
+    },
+    {
+      "id": "31148489",
+      "name": "미소야종로3가점",
+      "x": "126.9905284",
+      "y": "37.5700759",
+      "imageUrl": "http://ldb.phinf.naver.net/20170507_42/1494132320178beGU4_JPEG/IMG_20170502_162038.jpg",
+      "category": "우동,소바"
+    },
+    {
+      "id": "19411610",
+      "name": "청석골",
+      "x": "126.9912139",
+      "y": "37.5675167",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "1422060506",
+      "name": "오카구라 라멘&이자카야",
+      "x": "126.9912108",
+      "y": "37.5676536",
+      "imageUrl": "http://ldb.phinf.naver.net/20181219_187/15451866403743e4jz_JPEG/Us4vQy6vQDDXRa0uppcm2qiB.jpg",
+      "category": "일본식라면"
+    },
+    {
+      "id": "38274878",
+      "name": "개성집",
+      "x": "126.9908566",
+      "y": "37.5640175",
+      "imageUrl": null,
+      "category": "찌개,전골"
+    },
+    {
+      "id": "1041795794",
+      "name": "을지루이스 와인바",
+      "x": "126.9904696",
+      "y": "37.5629882",
+      "imageUrl": "http://ldb.phinf.naver.net/20190703_159/1562129850705NHiLu_JPEG/juEuX9I5rNrNe26aVjufs71x.jpg",
+      "category": "와인"
+    },
+    {
+      "id": "31679025",
+      "name": "오복보쌈족발",
+      "x": "126.9906280",
+      "y": "37.5699105",
+      "imageUrl": "http://ldb.phinf.naver.net/20160803_231/1470207910681ebVhv_JPEG/176753563530501_0.jpeg",
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "1602373580",
+      "name": "굿프렌즈",
+      "x": "126.9912538",
+      "y": "37.5656596",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1100267910",
+      "name": "을지칼국수",
+      "x": "126.9912827",
+      "y": "37.5658542",
+      "imageUrl": null,
+      "category": "칼국수,만두"
+    },
+    {
+      "id": "1708165940",
+      "name": "커브드커피",
+      "x": "126.9906032",
+      "y": "37.5700519",
+      "imageUrl": "http://ldb.phinf.naver.net/20190402_87/1554179407078Ez7Et_JPEG/jZhiYMV4Z8cvwZ6pXCSXlXRH.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "1853166744",
+      "name": "성옥순대국",
+      "x": "126.9913362",
+      "y": "37.5658481",
+      "imageUrl": "http://ldb.phinf.naver.net/20181008_85/15389630067976KLkF_JPEG/-OrXdgem4CqG9QEueP0f7D-g.jpg",
+      "category": "순대,순대국"
+    },
+    {
+      "id": "20865927",
+      "name": "성옥순대국",
+      "x": "126.9913470",
+      "y": "37.5658510",
+      "imageUrl": "http://ldb.phinf.naver.net/20190418_185/1555575432715MzDon_JPEG/855xK0HjmeLBT7JiCe2eZ9OA.jpg",
+      "category": "순대,순대국"
+    },
+    {
+      "id": "737860716",
+      "name": "종로빈대떡",
+      "x": "126.9913737",
+      "y": "37.5672444",
+      "imageUrl": null,
+      "category": "전,빈대떡"
+    },
+    {
+      "id": "1639565392",
+      "name": "독대쭈꾸미",
+      "x": "126.9910017",
+      "y": "37.5640224",
+      "imageUrl": null,
+      "category": "주꾸미요리"
+    },
+    {
+      "id": "20866000",
+      "name": "서울뚝배기",
+      "x": "126.9905541",
+      "y": "37.5628737",
+      "imageUrl": "http://ldb.phinf.naver.net/20190622_42/1561187989840nwfRi_JPEG/fgA18MWKZKvGHw5NtoyVMI3g.jpeg.jpg",
+      "category": "찌개,전골"
+    },
+    {
+      "id": "13152415",
+      "name": "서동관",
+      "x": "126.9904599",
+      "y": "37.5626649",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_31/1440995612217mHkhH_JPEG/106552447727523_0.jpg",
+      "category": "중식당"
+    },
+    {
+      "id": "18673146",
+      "name": "맥도날드 종로3가점",
+      "x": "126.9904800",
+      "y": "37.5705770",
+      "imageUrl": "http://ldb.phinf.naver.net/20190813_152/1565680417122kReCD_JPEG/Mc-nKY-eQ8YvQ5UBrO4SWsXX.jpg",
+      "category": "햄버거"
+    },
+    {
+      "id": "1318982896",
+      "name": "백두강산",
+      "x": "126.9907545",
+      "y": "37.5632536",
+      "imageUrl": "http://ldb.phinf.naver.net/20181001_291/1538370441987pSdlJ_JPEG/tsvyhorK0L8mBemyKex-6F8H.jpeg.jpg",
+      "category": "카페"
+    },
+    {
+      "id": "317726132",
+      "name": "와뻑",
+      "x": "126.9914413",
+      "y": "37.5662577",
+      "imageUrl": "http://ldb.phinf.naver.net/20170129_295/1485674548962KkfQC_JPEG/186079565248075_0.jpeg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "35861233",
+      "name": "시민식당",
+      "x": "126.9904000",
+      "y": "37.5707417",
+      "imageUrl": "http://ldb.phinf.naver.net/20191027_158/1572149331096p23XQ_JPEG/xpMGPIh0RlxZuElwsLTsM7i5.jpg",
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "11706780",
+      "name": "전주집",
+      "x": "126.9914139",
+      "y": "37.5676083",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_104/1441024881662rSxAg_JPEG/11706780_0.jpg",
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "31658139",
+      "name": "장군굴보쌈",
+      "x": "126.9908212",
+      "y": "37.5699147",
+      "imageUrl": null,
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "18088298",
+      "name": "미스터순두부",
+      "x": "126.9910660",
+      "y": "37.5639450",
+      "imageUrl": null,
+      "category": "두부요리"
+    },
+    {
+      "id": "11844346",
+      "name": "흥부가",
+      "x": "126.9908525",
+      "y": "37.5699114",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_57/1441053302265bED7d_JPEG/11844346_0.jpg",
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "19867526",
+      "name": "우화식당",
+      "x": "126.9914686",
+      "y": "37.5674828",
+      "imageUrl": null,
+      "category": "요리주점"
+    },
+    {
+      "id": "19419988",
+      "name": "무화식당",
+      "x": "126.9914639",
+      "y": "37.5674917",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "1566105397",
+      "name": "원조만선호프",
+      "x": "126.9915199",
+      "y": "37.5671923",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "11677524",
+      "name": "안동장",
+      "x": "126.9915576",
+      "y": "37.5661354",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_110/14410171537605gRP8_JPEG/11677524_0.jpg",
+      "category": "중식당"
+    },
+    {
+      "id": "1402332669",
+      "name": "취향로3가",
+      "x": "126.9914751",
+      "y": "37.5653387",
+      "imageUrl": "http://ldb.phinf.naver.net/20181130_135/1543558561561b1di4_JPEG/J5xyoSdqnMRiNjMSTR7KZUbq.jpeg.jpg",
+      "category": "바(BAR)"
+    },
+    {
+      "id": "37569170",
+      "name": "순대이야기",
+      "x": "126.9914751",
+      "y": "37.5653388",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "19414717",
+      "name": "황해도식당",
+      "x": "126.9915000",
+      "y": "37.5677250",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "33879683",
+      "name": "명동골뱅이",
+      "x": "126.9915671",
+      "y": "37.5671738",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "38300602",
+      "name": "9988숯불구이",
+      "x": "126.9915100",
+      "y": "37.5677210",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "36417171",
+      "name": "더스타플레이트",
+      "x": "126.9906086",
+      "y": "37.5625776",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_39/1441070925523N9Of7_JPEG/SUBMIT_1426494591216_36417171.jpg",
+      "category": "베트남음식"
+    },
+    {
+      "id": "19410513",
+      "name": "참숯구이",
+      "x": "126.9905500",
+      "y": "37.5707583",
+      "imageUrl": null,
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "18088502",
+      "name": "남해횟집",
+      "x": "126.9911110",
+      "y": "37.5637740",
+      "imageUrl": null,
+      "category": "생선회"
+    },
+    {
+      "id": "1635293949",
+      "name": "감각의제국",
+      "x": "126.9915517",
+      "y": "37.5657203",
+      "imageUrl": null,
+      "category": "바(BAR)"
+    },
+    {
+      "id": "21086005",
+      "name": "낭만짬뽕",
+      "x": "126.9907018",
+      "y": "37.5627573",
+      "imageUrl": null,
+      "category": "중식당"
+    },
+    {
+      "id": "37903117",
+      "name": "다몽 꽃삼겹살",
+      "x": "126.9911040",
+      "y": "37.5637046",
+      "imageUrl": null,
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "1541422713",
+      "name": "전주옥",
+      "x": "126.9915705",
+      "y": "37.5657180",
+      "imageUrl": "http://ldb.phinf.naver.net/20190505_53/1557037576801sV5vc_JPEG/RIjyUbqmRdnl_7Oz1soc92fC.JPG.jpg",
+      "category": "한식"
+    },
+    {
+      "id": "1807799863",
+      "name": "공릉닭한마리 충무로점",
+      "x": "126.9906951",
+      "y": "37.5627093",
+      "imageUrl": "http://ldb.phinf.naver.net/20190912_25/1568267265286dyMvm_JPEG/bk-_p-6nZdJCE9jVhu2Cy6IL.jpg",
+      "category": "닭요리"
+    },
+    {
+      "id": "1179804812",
+      "name": "만선포",
+      "x": "126.9916009",
+      "y": "37.5670127",
+      "imageUrl": null,
+      "category": "요리주점"
+    },
+    {
+      "id": "11691699",
+      "name": "삼해집",
+      "x": "126.9909819",
+      "y": "37.5698800",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_295/1441020954418NTj0E_JPEG/11691699_0.jpg",
+      "category": "굴요리"
+    },
+    {
+      "id": "1525575292",
+      "name": "와인술사",
+      "x": "126.9910362",
+      "y": "37.5635168",
+      "imageUrl": "http://ldb.phinf.naver.net/20190926_298/1569492064858Mda7n_JPEG/R6mFaCogWqE0Io2hcel3-39N.jpeg.jpg",
+      "category": "와인"
+    },
+    {
+      "id": "11721686",
+      "name": "금성식당",
+      "x": "126.9905630",
+      "y": "37.5707780",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "20735840",
+      "name": "최부자보쌈",
+      "x": "126.9909680",
+      "y": "37.5699330",
+      "imageUrl": "http://ldb.phinf.naver.net/20190628_154/15617071481546yjmI_PNG/bpM2vT13ze6W6AyqHYbNS28H.png",
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "38276337",
+      "name": "충무로참숯불갈비살",
+      "x": "126.9912361",
+      "y": "37.5640338",
+      "imageUrl": null,
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "20846800",
+      "name": "와바 충무로역점",
+      "x": "126.9905440",
+      "y": "37.5623740",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1851814998",
+      "name": "진진가마솥설렁탕",
+      "x": "126.9905654",
+      "y": "37.5708029",
+      "imageUrl": null,
+      "category": "곰탕,설렁탕"
+    },
+    {
+      "id": "1481196313",
+      "name": "왓츠커피",
+      "x": "126.9906533",
+      "y": "37.5625624",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "11761139",
+      "name": "김가네 충무로점",
+      "x": "126.9910953",
+      "y": "37.5635524",
+      "imageUrl": "http://ldb.phinf.naver.net/20180504_5/1525388773515UqFJQ_PNG/SJ899PFu8SQoQdeI1eebozFi.png",
+      "category": "분식"
+    },
+    {
+      "id": "1557767715",
+      "name": "낙원족발",
+      "x": "126.9905871",
+      "y": "37.5708144",
+      "imageUrl": "http://ldb.phinf.naver.net/20190828_204/1566919234172AeLuG_JPEG/6x_IaL_3ETYKSagi4_r-Dfca.jpg",
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "20735509",
+      "name": "갈매기살소갈비전문점",
+      "x": "126.9905851",
+      "y": "37.5708560",
+      "imageUrl": null,
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "13259364",
+      "name": "실비집",
+      "x": "126.9913897",
+      "y": "37.5688693",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "19573614",
+      "name": "비바",
+      "x": "126.9907196",
+      "y": "37.5706250",
+      "imageUrl": null,
+      "category": "유흥주점"
+    },
+    {
+      "id": "1031763922",
+      "name": "어사출또 종로3가2호점",
+      "x": "126.9907196",
+      "y": "37.5706250",
+      "imageUrl": "http://ldb.phinf.naver.net/20170815_140/1502787800080KMGrv_JPEG/8NMuYOb7nUZUrk-UWGLK3meT.jpg",
+      "category": "생선회"
+    },
+    {
+      "id": "836009696",
+      "name": "레드빅센",
+      "x": "126.9905617",
+      "y": "37.5623057",
+      "imageUrl": "http://ldb.phinf.naver.net/20170207_183/1486452828478sEMNz_JPEG/186157566368.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "20838806",
+      "name": "헤븐",
+      "x": "126.9911350",
+      "y": "37.5635220",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "19416465",
+      "name": "청수사철탕",
+      "x": "126.9905250",
+      "y": "37.5710083",
+      "imageUrl": null,
+      "category": "사철,영양탕"
+    },
+    {
+      "id": "37384167",
+      "name": "호텔수선화",
+      "x": "126.9916573",
+      "y": "37.5657116",
+      "imageUrl": "http://ldb.phinf.naver.net/20190812_293/1565608906628Dygyl_JPEG/vincent%28low%29.jpg",
+      "category": "카페"
+    },
+    {
+      "id": "1844161436",
+      "name": "강화통통생고기 충무로점",
+      "x": "126.9908079",
+      "y": "37.5627185",
+      "imageUrl": "http://ldb.phinf.naver.net/20190803_31/1564805381321PDvRs_JPEG/jnFuh5k4Wxmr8krEmIzuQ9eC.jpg",
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "13152081",
+      "name": "전주식당",
+      "x": "126.9911084",
+      "y": "37.5698270",
+      "imageUrl": "http://ldb.phinf.naver.net/20170725_116/1500985111833Tothe_PNG/186675614850860_5.png",
+      "category": "생선구이"
+    },
+    {
+      "id": "205159733",
+      "name": "브레댄코 종로3가역점",
+      "x": "126.9908467",
+      "y": "37.5704364",
+      "imageUrl": null,
+      "category": "베이커리"
+    },
+    {
+      "id": "1996053534",
+      "name": "이화수전통육개장 서울저동점",
+      "x": "126.9911353",
+      "y": "37.5634316",
+      "imageUrl": "http://ldb.phinf.naver.net/20170926_196/1506389086049pnW1B_JPEG/Xd-kvQSTzzJ1LgH3hZwBIuuz.jpg",
+      "category": "찌개,전골"
+    },
+    {
+      "id": "34044108",
+      "name": "커피숲",
+      "x": "126.9912483",
+      "y": "37.5694864",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_131/1441080091338AitHJ_JPEG/SUBMIT_1390392001769_34044108.jpg",
+      "category": "카페"
+    },
+    {
+      "id": "1739646946",
+      "name": "쎄컨카지",
+      "x": "126.9916703",
+      "y": "37.5655126",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "1635888712",
+      "name": "미오 카페",
+      "x": "126.9916703",
+      "y": "37.5655126",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "1210732408",
+      "name": "리얼안심&찹쌀탕수육 종로점",
+      "x": "126.9911010",
+      "y": "37.5633256",
+      "imageUrl": null,
+      "category": "중식당"
+    },
+    {
+      "id": "1005485404",
+      "name": "스테이크존 저동2가점",
+      "x": "126.9911010",
+      "y": "37.5633256",
+      "imageUrl": null,
+      "category": "스테이크,립"
+    },
+    {
+      "id": "1928822001",
+      "name": "딜스테이크 충무로점",
+      "x": "126.9911010",
+      "y": "37.5633256",
+      "imageUrl": null,
+      "category": "스테이크,립"
+    },
+    {
+      "id": "1861725130",
+      "name": "오리도니 충무로점",
+      "x": "126.9911010",
+      "y": "37.5633256",
+      "imageUrl": null,
+      "category": "오리요리"
+    },
+    {
+      "id": "1807251483",
+      "name": "광수네곱창&해장국",
+      "x": "126.9911010",
+      "y": "37.5633256",
+      "imageUrl": "http://ldb.phinf.naver.net/20180604_206/1528085090411rnOr9_JPEG/ckUXvR4mcE1Ir867RM36H0qI.jpg",
+      "category": "곱창,막창,양"
+    },
+    {
+      "id": "20498556",
+      "name": "초반식당",
+      "x": "126.9908753",
+      "y": "37.5627840",
+      "imageUrl": "http://ldb.phinf.naver.net/20190424_114/1556033771783T2a7t_JPEG/UH6gALC5cAqPBKK6RfdQsf7N.jpg",
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "35228727",
+      "name": "호프를사랑한족발",
+      "x": "126.9907073",
+      "y": "37.5707881",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1682507157",
+      "name": "오성집",
+      "x": "126.9911426",
+      "y": "37.5698502",
+      "imageUrl": null,
+      "category": "음식점"
+    },
+    {
+      "id": "11862556",
+      "name": "한일식당",
+      "x": "126.9911286",
+      "y": "37.5698898",
+      "imageUrl": null,
+      "category": "생선구이"
+    },
+    {
+      "id": "1163961258",
+      "name": "어사출또 종로3가점",
+      "x": "126.9907216",
+      "y": "37.5707821",
+      "imageUrl": null,
+      "category": "생선회"
+    },
+    {
+      "id": "20736083",
+      "name": "한방굴보쌈",
+      "x": "126.9911350",
+      "y": "37.5699040",
+      "imageUrl": null,
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "11570993",
+      "name": "전주집",
+      "x": "126.9911330",
+      "y": "37.5699330",
+      "imageUrl": "http://ldb.phinf.naver.net/20170209_154/1486628054104nnv2I_JPEG/186159574433057_0.jpeg",
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "31520012",
+      "name": "신의주부대찌개 충무로점",
+      "x": "126.9911425",
+      "y": "37.5633190",
+      "imageUrl": null,
+      "category": "신의주부대찌개"
+    },
+    {
+      "id": "1947764813",
+      "name": "을지분식",
+      "x": "126.9916971",
+      "y": "37.5652015",
+      "imageUrl": "http://ldb.phinf.naver.net/20190716_258/15632648869570RX0V_JPEG/aL8WuzQUaQ6qFlrdOQIQoedH.jpg",
+      "category": "종합분식"
+    },
+    {
+      "id": "1596788664",
+      "name": "옥상몽운",
+      "x": "126.9918046",
+      "y": "37.5668202",
+      "imageUrl": "http://ldb.phinf.naver.net/20190623_256/1561286544543KozhG_JPEG/lHkhrYN1SNK2org_HtSUGqt1.jpg",
+      "category": "바(BAR)"
+    },
+    {
+      "id": "11632411",
+      "name": "장추 민물장어",
+      "x": "126.9908756",
+      "y": "37.5626431",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_71/14410093936652pbXm_JPEG/11632411_0.jpg",
+      "category": "해물,생선요리"
+    },
+    {
+      "id": "1616701545",
+      "name": "지하302호",
+      "x": "126.9917906",
+      "y": "37.5671381",
+      "imageUrl": "http://ldb.phinf.naver.net/20190927_23/15695591868944O2dA_JPEG/cDFPxoOma86POEtfd7_NqUoL.jpg",
+      "category": "와인"
+    },
+    {
+      "id": "35057560",
+      "name": "마부호프",
+      "x": "126.9917892",
+      "y": "37.5671425",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "17935065",
+      "name": "무등촌",
+      "x": "126.9907889",
+      "y": "37.5707833",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "13148192",
+      "name": "돌판위에김과장",
+      "x": "126.9906334",
+      "y": "37.5621547",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_234/1440994134801cGgBa_JPEG/106676616149233_0.jpg",
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "13492518",
+      "name": "만선호프",
+      "x": "126.9918001",
+      "y": "37.5672842",
+      "imageUrl": "http://ldb.phinf.naver.net/20180724_270/1532395389325Iy0RA_JPEG/ju1pOK2BdHMePn_qrKlNfck6.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "32699975",
+      "name": "을지OB베어",
+      "x": "126.9918149",
+      "y": "37.5669934",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "38521933",
+      "name": "양지카페",
+      "x": "126.9909674",
+      "y": "37.5627782",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "1019680972",
+      "name": "만선호프3",
+      "x": "126.9918210",
+      "y": "37.5671279",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "37898976",
+      "name": "관수전집",
+      "x": "126.9914988",
+      "y": "37.5690418",
+      "imageUrl": null,
+      "category": "전,빈대떡"
+    },
+    {
+      "id": "1523900249",
+      "name": "쎄투",
+      "x": "126.9918284",
+      "y": "37.5669672",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "1997937663",
+      "name": "만선호프2",
+      "x": "126.9918285",
+      "y": "37.5669672",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1280476142",
+      "name": "교동전선생",
+      "x": "126.9911701",
+      "y": "37.5631968",
+      "imageUrl": null,
+      "category": "전통,민속주점"
+    },
+    {
+      "id": "1679293200",
+      "name": "안철순",
+      "x": "126.9909643",
+      "y": "37.5627298",
+      "imageUrl": "http://ldb.phinf.naver.net/20190826_31/1566797778492AYjtV_JPEG/kpH13B5ctf_XqQzua3l-yTVH.jpeg.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1672891424",
+      "name": "시민호프",
+      "x": "126.9918530",
+      "y": "37.5667844",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1699354124",
+      "name": "을지로사색 와인바",
+      "x": "126.9913362",
+      "y": "37.5635789",
+      "imageUrl": "http://ldb.phinf.naver.net/20181002_101/15384787588090Hf8s_JPEG/wm9pAcviYTYYGf3tfGsOR2QS.jpg",
+      "category": "와인"
+    },
+    {
+      "id": "1622132904",
+      "name": "충무상회",
+      "x": "126.9911816",
+      "y": "37.5631647",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "1099499004",
+      "name": "스노우화이트",
+      "x": "126.9918706",
+      "y": "37.5662808",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "1594484789",
+      "name": "올식",
+      "x": "126.9905344",
+      "y": "37.5713590",
+      "imageUrl": null,
+      "category": "요리주점"
+    },
+    {
+      "id": "36476068",
+      "name": "비브라토",
+      "x": "126.9910994",
+      "y": "37.5629412",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "1656979437",
+      "name": "MXL",
+      "x": "126.9918028",
+      "y": "37.5653718",
+      "imageUrl": "http://ldb.phinf.naver.net/20190527_222/1558966010643cGh0r_PNG/CDhkSzhsRyBQ4eT9u8Jkyp0h.png",
+      "category": "와인"
+    },
+    {
+      "id": "31548909",
+      "name": "청밀밭비빔국수 충무로직영점",
+      "x": "126.9914274",
+      "y": "37.5637323",
+      "imageUrl": null,
+      "category": "국수"
+    },
+    {
+      "id": "1444910504",
+      "name": "을지다락",
+      "x": "126.9914413",
+      "y": "37.5637709",
+      "imageUrl": "http://ldb.phinf.naver.net/20190613_137/1560392652727f6DPn_JPEG/Rd9AQbjFXNjlJ_Hoj9yVdTAD.jpg",
+      "category": "양식"
+    },
+    {
+      "id": "12915606",
+      "name": "가쓰라 충무로점",
+      "x": "126.9911230",
+      "y": "37.5629300",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_282/14410386914287k9jq_JPEG/96756517955105_0.jpg",
+      "category": "일식당"
+    },
+    {
+      "id": "1471009696",
+      "name": "소닥대",
+      "x": "126.9908398",
+      "y": "37.5623169",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "20421452",
+      "name": "충무로족발",
+      "x": "126.9911897",
+      "y": "37.5630683",
+      "imageUrl": "http://ldb.phinf.naver.net/20151210_13/1449737481622DDGHn_JPEG/167160578140550_0.jpeg",
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "18083119",
+      "name": "함지성",
+      "x": "126.9913370",
+      "y": "37.5633550",
+      "imageUrl": null,
+      "category": "중식당"
+    },
+    {
+      "id": "31020125",
+      "name": "명동왕돈까스",
+      "x": "126.9913380",
+      "y": "37.5633300",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_191/1441116605329Y70Gc_JPEG/136781607747914_0.jpeg",
+      "category": "돈가스"
+    },
+    {
+      "id": "19414769",
+      "name": "청학동",
+      "x": "126.9912750",
+      "y": "37.5700500",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "1156750851",
+      "name": "쎌커피",
+      "x": "126.9913479",
+      "y": "37.5633549",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "11733817",
+      "name": "더맛존충무로지점",
+      "x": "126.9912016",
+      "y": "37.5629998",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_189/14410324277522NSQi_JPEG/11733817_0.jpg",
+      "category": "치킨,닭강정"
+    },
+    {
+      "id": "1315467971",
+      "name": "이층",
+      "x": "126.9911973",
+      "y": "37.5629665",
+      "imageUrl": "http://ldb.phinf.naver.net/20180601_24/1527812676465quNBE_JPEG/7zH8575r0Jk7Kputpd-lvgMc.jpg",
+      "category": "한식"
+    },
+    {
+      "id": "1657227218",
+      "name": "카페 우디",
+      "x": "126.9911973",
+      "y": "37.5629665",
+      "imageUrl": "http://ldb.phinf.naver.net/20180406_295/1522999989853NpY2X_JPEG/2ew1EzU2gRcBFzkhVYAOMNH_.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "31115637",
+      "name": "청록",
+      "x": "126.9909413",
+      "y": "37.5623930",
+      "imageUrl": "http://ldb.phinf.naver.net/20150902_86/1441121888756phFUF_JPEG/136971615950966_0.jpeg",
+      "category": "한정식"
+    },
+    {
+      "id": "20834995",
+      "name": "우정집",
+      "x": "126.9913590",
+      "y": "37.5633410",
+      "imageUrl": null,
+      "category": "오리요리"
+    },
+    {
+      "id": "449093763",
+      "name": "슈퍼오아시스",
+      "x": "126.9916722",
+      "y": "37.5642533",
+      "imageUrl": "http://ldb.phinf.naver.net/20190902_93/1567386807941OW2vb_JPEG/wcSZ0irSQQ93YQ28XIVsPdFf.jpeg.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "11720161",
+      "name": "사랑방칼국수",
+      "x": "126.9913418",
+      "y": "37.5632872",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_280/1441028593673didXq_JPEG/11720161_0.jpg",
+      "category": "칼국수,만두"
+    },
+    {
+      "id": "21445463",
+      "name": "화통본가",
+      "x": "126.9913076",
+      "y": "37.5700390",
+      "imageUrl": "http://ldb.phinf.naver.net/20160517_153/1463451021559p35ms_JPEG/176467514040897_0.jpeg",
+      "category": "한식"
+    },
+    {
+      "id": "35743095",
+      "name": "돈쉐프왕족발보쌈",
+      "x": "126.9919888",
+      "y": "37.5669852",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_160/1441020056422QE2B7_JPEG/156958586264800_0.jpeg",
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "19414687",
+      "name": "초원호프",
+      "x": "126.9919750",
+      "y": "37.5672750",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "178507355",
+      "name": "오즈캐슬 을지로지하쇼핑센터3구역점",
+      "x": "126.9920054",
+      "y": "37.5662970",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "38521934",
+      "name": "충무로닭갈비",
+      "x": "126.9911362",
+      "y": "37.5627622",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "38521936",
+      "name": "더치킨쉐프",
+      "x": "126.9913371",
+      "y": "37.5631786",
+      "imageUrl": null,
+      "category": "술집"
+    },
+    {
+      "id": "21704101",
+      "name": "본도시락 충무로점",
+      "x": "126.9908877",
+      "y": "37.5622152",
+      "imageUrl": "http://ldb.phinf.naver.net/20190502_69/1556754289970TN03o_JPEG/hS-aUFFN-XL7vn-1dLt14pq2.jpg",
+      "category": "도시락,컵밥"
+    },
+    {
+      "id": "1778520035",
+      "name": "어람",
+      "x": "126.9909611",
+      "y": "37.5623703",
+      "imageUrl": null,
+      "category": "일식당"
+    },
+    {
+      "id": "1867654348",
+      "name": "둘둘치킨종로3가점",
+      "x": "126.9910139",
+      "y": "37.5707833",
+      "imageUrl": "http://ldb.phinf.naver.net/20190409_5/15547921207289UpM4_JPEG/c563txyWeIzGDc3mFwbVoJF6.jpg",
+      "category": "치킨,닭강정"
+    },
+    {
+      "id": "36516173",
+      "name": "꾸오삼화덕막창&곱창",
+      "x": "126.9919348",
+      "y": "37.5653042",
+      "imageUrl": null,
+      "category": "곱창,막창,양"
+    },
+    {
+      "id": "13537864",
+      "name": "뮌헨호프",
+      "x": "126.9920250",
+      "y": "37.5671250",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_163/1441052138245AJ1oc_JPEG/SUBMIT_1372057898798_13537864.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "93681194",
+      "name": "제주굴보쌈",
+      "x": "126.9914540",
+      "y": "37.5698450",
+      "imageUrl": null,
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "70873075",
+      "name": "큰손집",
+      "x": "126.9906033",
+      "y": "37.5715427",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "1773739658",
+      "name": "필하우스",
+      "x": "126.9913749",
+      "y": "37.5631813",
+      "imageUrl": "http://ldb.phinf.naver.net/20190528_169/1559018961528MEQ8a_JPEG/BMDdS2sHFfY3AwNr6FuUrtw0.jpg",
+      "category": "양식"
+    },
+    {
+      "id": "18081751",
+      "name": "돼지한판 오신정",
+      "x": "126.9913750",
+      "y": "37.5631750",
+      "imageUrl": "http://ldb.phinf.naver.net/20181001_233/1538385889638LeXm6_JPEG/QkQFsp8Pij4UtHI6vsCMG-AU.jpg",
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "1023571467",
+      "name": "007포장마차",
+      "x": "126.9906099",
+      "y": "37.5715569",
+      "imageUrl": null,
+      "category": "포장마차"
+    },
+    {
+      "id": "1096118420",
+      "name": "초원2",
+      "x": "126.9920368",
+      "y": "37.5673768",
+      "imageUrl": "http://ldb.phinf.naver.net/20190516_276/1557933252354ReMBF_JPEG/84AoWmmJ10JPR0skcGT7a0Ap.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1601880233",
+      "name": "3가식당",
+      "x": "126.9919950",
+      "y": "37.5654366",
+      "imageUrl": "http://ldb.phinf.naver.net/20180906_148/1536161726276dodN2_JPEG/rJSGo_o5fe66ocbtsbtP82_k.jpg",
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "37700720",
+      "name": "Street coffee",
+      "x": "126.9912352",
+      "y": "37.5627730",
+      "imageUrl": "http://ldb.phinf.naver.net/20180929_280/1538186245423vYaEL_JPEG/O0WgsQcuSVwdVCjsU0xWggAe.jpg",
+      "category": "테이크아웃커피"
+    },
+    {
+      "id": "19418112",
+      "name": "난중식전문점",
+      "x": "126.9914389",
+      "y": "37.5699667",
+      "imageUrl": null,
+      "category": "중식당"
+    },
+    {
+      "id": "18081749",
+      "name": "진도집",
+      "x": "126.9911571",
+      "y": "37.5626054",
+      "imageUrl": "http://ldb.phinf.naver.net/20181002_209/1538446658079FLN5C_JPEG/_cMpkh7jwNIC6Fi21wTq9IJT.jpg",
+      "category": "한식"
+    },
+    {
+      "id": "38275138",
+      "name": "대쉬 바",
+      "x": "126.9914420",
+      "y": "37.5632412",
+      "imageUrl": null,
+      "category": "바(BAR)"
+    },
+    {
+      "id": "13153971",
+      "name": "팔도보쌈",
+      "x": "126.9914521",
+      "y": "37.5632419",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_73/1440996385795S1za5_JPEG/106559517928789_0.jpg",
+      "category": "족발,보쌈"
+    },
+    {
+      "id": "21530260",
+      "name": "삼백정",
+      "x": "126.9915635",
+      "y": "37.5634995",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_259/1441090595785v882v_JPEG/136367516323654_0.jpeg",
+      "category": "찌개,전골"
+    },
+    {
+      "id": "396944356",
+      "name": "15번출구호프",
+      "x": "126.9914663",
+      "y": "37.5699859",
+      "imageUrl": "http://ldb.phinf.naver.net/20180719_2/15319793232185S5LW_JPEG/crzb53447VOyuKJRelbBA3wL.jpg",
+      "category": "맥주,호프"
+    },
+    {
+      "id": "19743621",
+      "name": "호성",
+      "x": "126.9920280",
+      "y": "37.5653530",
+      "imageUrl": "http://ldb.phinf.naver.net/20190318_59/1552889167336673fU_JPEG/a38VxI_4qBP4k1RzWTwISnTE.jpg",
+      "category": "일식당"
+    },
+    {
+      "id": "636720810",
+      "name": "분카샤",
+      "x": "126.9920219",
+      "y": "37.5653439",
+      "imageUrl": "http://ldb.phinf.naver.net/20170706_204/1499312703010IvNLX_JPEG/186655545575920_0.jpeg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "421100828",
+      "name": "일가무교동낙지",
+      "x": "126.9915708",
+      "y": "37.5634670",
+      "imageUrl": "http://ldb.phinf.naver.net/20190806_70/1565064806320s680F_JPEG/FrTspuPlaQ3DsOm4NzE9NC_y.jpg",
+      "category": "낙지요리"
+    },
+    {
+      "id": "12011835",
+      "name": "장수삼계탕",
+      "x": "126.9920210",
+      "y": "37.5652750",
+      "imageUrl": null,
+      "category": "백숙,삼계탕"
+    },
+    {
+      "id": "1870749555",
+      "name": "사르맛",
+      "x": "126.9920218",
+      "y": "37.5652703",
+      "imageUrl": null,
+      "category": "양식"
+    },
+    {
+      "id": "1742423465",
+      "name": "행복한수제돈까스앤분식",
+      "x": "126.9920226",
+      "y": "37.5652582",
+      "imageUrl": null,
+      "category": "돈가스"
+    },
+    {
+      "id": "1702030209",
+      "name": "루덴스",
+      "x": "126.9915224",
+      "y": "37.5633277",
+      "imageUrl": "http://ldb.phinf.naver.net/20190821_26/1566381006879tH0Up_JPEG/aw7wkAEQP2Sxb8lgqTaZSgkp.jpg",
+      "category": "카페,디저트"
+    },
+    {
+      "id": "38002952",
+      "name": "신선한초밥",
+      "x": "126.9912469",
+      "y": "37.5626454",
+      "imageUrl": "http://ldb.phinf.naver.net/20181001_66/1538393053073TDdk1_JPEG/wz5o5ap3vBaFub72vhktGZ5x.jpg",
+      "category": "초밥,롤"
+    },
+    {
+      "id": "514525522",
+      "name": "불독커피 충무로점",
+      "x": "126.9914289",
+      "y": "37.5630525",
+      "imageUrl": "http://ldb.phinf.naver.net/20170807_216/15020696619296J8pj_JPEG/186679566440965_0.jpeg",
+      "category": "테이크아웃커피"
+    },
+    {
+      "id": "20873637",
+      "name": "산과들그리고바다",
+      "x": "126.9920470",
+      "y": "37.5652710",
+      "imageUrl": null,
+      "category": "비빔밥"
+    },
+    {
+      "id": "1797028231",
+      "name": "정선할매곤드레밥",
+      "x": "126.9910365",
+      "y": "37.5622379",
+      "imageUrl": "http://ldb.phinf.naver.net/20170908_158/1504852600601oLiFF_JPEG/GZCC7z95POuIA-WM9dZHxCkr.jpg",
+      "category": "한식"
+    },
+    {
+      "id": "38275049",
+      "name": "나살던고향",
+      "x": "126.9919993",
+      "y": "37.5649256",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "18701825",
+      "name": "마포만두충무로점",
+      "x": "126.9914000",
+      "y": "37.5629759",
+      "imageUrl": null,
+      "category": "칼국수,만두"
+    },
+    {
+      "id": "265089712",
+      "name": "10막창",
+      "x": "126.9906096",
+      "y": "37.5717442",
+      "imageUrl": "http://ldb.phinf.naver.net/20161227_104/1482781761824t9kW7_JPEG/177177447941173_0.jpeg",
+      "category": "곱창,막창,양"
+    },
+    {
+      "id": "1913279106",
+      "name": "달고나",
+      "x": "126.9921669",
+      "y": "37.5664006",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "38229840",
+      "name": "옛날농장 을지로3가점",
+      "x": "126.9921639",
+      "y": "37.5670000",
+      "imageUrl": null,
+      "category": "육류,고기요리"
+    },
+    {
+      "id": "20869843",
+      "name": "이디야커피 충무로3가점",
+      "x": "126.9912460",
+      "y": "37.5625870",
+      "imageUrl": "http://ldb.phinf.naver.net/20170711_282/1499738599754pJSvu_JPEG/186661513339210_0.jpeg",
+      "category": "카페"
+    },
+    {
+      "id": "20877472",
+      "name": "예사랑한방차",
+      "x": "126.9916790",
+      "y": "37.5636180",
+      "imageUrl": "http://ldb.phinf.naver.net/20180928_143/1538116167048X4emY_JPEG/1Wth7JvXm62237FamWHx4tyy.jpg",
+      "category": "차"
+    },
+    {
+      "id": "20367682",
+      "name": "골목건강탕",
+      "x": "126.9921696",
+      "y": "37.5673002",
+      "imageUrl": "http://ldb.phinf.naver.net/20150901_221/14410470394286Nzu7_JPEG/SUBMIT_1336055511687_20367682.jpg",
+      "category": "사철,영양탕"
+    },
+    {
+      "id": "20915578",
+      "name": "김삼보 충무로점",
+      "x": "126.9916090",
+      "y": "37.5633820",
+      "imageUrl": null,
+      "category": "한식"
+    },
+    {
+      "id": "20938418",
+      "name": "북새통",
+      "x": "126.9921560",
+      "y": "37.5657370",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "13161179",
+      "name": "왕성식당",
+      "x": "126.9916174",
+      "y": "37.5634000",
+      "imageUrl": "http://ldb.phinf.naver.net/20150831_36/1441000074370CNb42_JPEG/106576428425426_0.jpg",
+      "category": "해물,생선요리"
+    },
+    {
+      "id": "19878362",
+      "name": "대성닭한마리",
+      "x": "126.9916170",
+      "y": "37.5633920",
+      "imageUrl": "http://ldb.phinf.naver.net/20180928_273/1538102326243N28sF_JPEG/2GL7sd0VFb5tHJN5OMwE0hOL.jpg",
+      "category": "닭요리"
+    },
+    {
+      "id": "1601824151",
+      "name": "하림옛날통닭",
+      "x": "126.9920822",
+      "y": "37.5650103",
+      "imageUrl": null,
+      "category": "치킨,닭강정"
+    },
+    {
+      "id": "1879672351",
+      "name": "을지포도",
+      "x": "126.9921638",
+      "y": "37.5656073",
+      "imageUrl": null,
+      "category": "양식"
+    },
+    {
+      "id": "1125260739",
+      "name": "애플노래클럽",
+      "x": "126.9915229",
+      "y": "37.5631046",
+      "imageUrl": "http://ldb.phinf.naver.net/20181001_12/1538369761833y9d9u_JPEG/sfOD4tn1b_is-iQxick05czQ.jpg",
+      "category": "요리주점"
+    },
+    {
+      "id": "1630787176",
+      "name": "서울고기집",
+      "x": "126.9915229",
+      "y": "37.5631046",
+      "imageUrl": "http://ldb.phinf.naver.net/20181001_260/1538350648309tFosE_JPEG/wQk3V7FQO9jE2DZrH3oMjeQT.jpg",
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "1098356561",
+      "name": "스타빈",
+      "x": "126.9913942",
+      "y": "37.5628131",
+      "imageUrl": null,
+      "category": "카페,디저트"
+    },
+    {
+      "id": "38275670",
+      "name": "서문돌판생삼겹살",
+      "x": "126.9916500",
+      "y": "37.5634180",
+      "imageUrl": null,
+      "category": "돼지고기구이"
+    },
+    {
+      "id": "1641169671",
+      "name": "레드락",
+      "x": "126.9920925",
+      "y": "37.5650050",
+      "imageUrl": null,
+      "category": "맥주,호프"
+    },
+    {
+      "id": "1469016409",
+      "name": "빨간우체통",
+      "x": "126.9921922",
+      "y": "37.5657785",
+      "imageUrl": null,
+      "category": "카페"
+    },
+    {
+      "id": "1025824285",
+      "name": "육전식당 5호점",
+      "x": "126.9914833",
+      "y": "37.5629899",
+      "imageUrl": "http://ldb.phinf.naver.net/20190818_273/1566136677477m54nN_JPEG/5M_y-BsYTiAB7pjG4ecKPQB7.jpeg.jpg",
+      "category": "육류,고기요리"
+    }
+  ]
+}
